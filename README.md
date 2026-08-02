@@ -3,6 +3,7 @@
 **Defending the Perimeter: A Blue Team Investigation into Endpoint Security**  
 **Author:** Qazeem Samshudeen Temitope  
 **Role:** Aspiring SOC Analyst | Endpoint Security Enthusiast  
+📄 **Full Presentation Report:** [![Download PDF](https://img.shields.io/badge/Download-Full_PDF_Report-blue?style=for-the-badge&logo=adobeacrobatreader)](./Qazeem-samshudeen-SOC-analyst-endpoint-hardening-lab-report.pdf)
 
 ---
 
